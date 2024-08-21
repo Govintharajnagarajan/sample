@@ -1,0 +1,18 @@
+
+table,tr,td {
+   
+    border : 2px solid rgb(80, 23, 236);
+    border-collapse:collapse
+  }
+ 
+  tr:nth-child() {
+background-color: rgb(6, 146, 146);
+
+  }
+  td:hover {
+    background-color: rgb(164, 219, 36);
+  }
+ table {
+    width: 60%;
+    height: 3pc;
+ }
